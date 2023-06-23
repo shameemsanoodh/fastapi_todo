@@ -9,7 +9,7 @@ Install the dependencies from requiremnets and start the server.
 
 ```
 
-cd eastvantage
+cd wobot
 pip install -r requirements.txt
 
 ## edit env_vars.txt and pass your db parameters
