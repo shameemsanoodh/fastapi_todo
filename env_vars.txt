@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#export WOBOT_DB_PORT=your_port
+#export WOBOT_DB_HOST=your_host
+#export WOBOT_DEFAULT_DB=defaultdb
+#export WOBOT_DB_NAME=your_db_name
+#export WOBOT_DB_USER=doadmin
+#export WOBOT_DB_PWD=your_password
